@@ -1,0 +1,12 @@
+p{color: darkblue;}
+table{color: darkgreen;
+border: 1px solid black;
+border-collapse: collapse;
+border-spacing: 5px;
+}
+td, th{padding: 10px;
+border: 1px solid black;
+}
+body {font: 15px Arial, sans-serif;}
+h1 {color: darkred;}
+body{background-color: lightblue;}
